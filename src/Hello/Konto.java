@@ -1,5 +1,6 @@
 package Hello;
 
+/* To jest klasa Konto*/
 public class Konto {
 
 	private final int numer;
