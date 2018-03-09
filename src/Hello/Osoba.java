@@ -3,6 +3,7 @@ package Hello;
 import java.time.LocalDate;
 import java.time.Period;
 
+//Klasa osoba
 public class Osoba {
 	// To sa zmienne pamiętane w obiektach, na które można mówić:
 	// pola (fields)
