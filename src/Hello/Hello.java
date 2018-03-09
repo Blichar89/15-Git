@@ -10,7 +10,10 @@ public class Hello {
 		Osoba ala = new Osoba("Ala", "Makota", "1989-03-12");
 		System.out.println(ala);
 
-
+		Konto konto = new Konto(11, 2000, ala);
+		konto.wplata(500);
+		System.out.println(konto);
+		
 	}
 
 }
