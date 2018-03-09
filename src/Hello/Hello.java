@@ -14,6 +14,8 @@ public class Hello {
 		konto.wplata(500);
 		System.out.println(konto);
 		
+		System.out.println("Obiad!!");
+		
 	}
 
 }
